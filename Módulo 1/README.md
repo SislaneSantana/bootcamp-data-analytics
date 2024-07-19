@@ -6,8 +6,8 @@
 
 - **Origem dos Dados:**  [Diabetes Dataset - Kaggle](https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset)
 
-## Relatório Financeiro 
+## Relatório de Vendas
 
-- **Descrição:**  Este conjunto de dados financeiro, disponibilizado pelo Power BI, contém informações detalhadas sobre vendas, incluindo segmentação de mercado, país, produtos, preços, entre outras variáveis. Foram montados relatórios de vendas considerando produtos e segmento, distribuição de lucro, vendas e unidades vendidas por país e segmento utilizando este conjunto de dados.
+- **Descrição:**  Este conjunto de dados financeiro, disponibilizado no Power BI, contém informações detalhadas sobre vendas, incluindo segmentação de mercado, país, produtos, preços, entre outras variáveis. Foram montados relatórios de vendas considerando produtos e segmento, distribuição de lucro, vendas e unidades vendidas por país e segmento utilizando este conjunto de dados.
 
-- **Origem dos Dados:**  Financial Sample disponibilizada pelo Power BI
+- **Origem dos Dados:**  Financial Sample disponibilizada pela Microsoft
